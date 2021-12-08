@@ -1,0 +1,64 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+.header{
+height: 85px;
+background-color: #606469; 
+border: 1px solid gray; 
+}
+
+.header .image{
+	margin: 10px;
+	border: 1px;
+	float: left;
+}
+
+
+.header .text{
+	margin-top: 25px;
+	float: left;
+	font-style: 500px;
+	font-size: 25px;
+	color: #1707f0;
+}
+
+
+.container{
+	margin-top: 5px;
+height: 350px;
+border: 0px;
+
+}
+
+
+.container .card1{
+	margin: 15px;
+	width: 300px;
+	height: 150px;
+	border: 1px solid gray;
+	border-radius: 10px;
+	background-color: #ffe4c4;
+	
+	
+}
+.container .card1 .text{
+	margin: 5px;
+}
+
+.container .card2{
+	margin: 15px;
+	margin-top: 5px;
+	width: 300px;
+	height: 150px;
+	border: 1px solid gray;
+	border-radius: 10px;
+	background-color: #ffe4c4;
+	
+}
+.container .card2 .text{
+	margin: 5px;
+}
